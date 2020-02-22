@@ -28,7 +28,7 @@ public class EvenOdd implements Runnable {
 				print.printOdd(number);
 			}
 		}
-		//number+=2:
+		number=number+2;
 		
 	}
 
